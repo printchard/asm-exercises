@@ -1,0 +1,4 @@
+*.o
+**/.DS_Store
+adder/adder
+hello/hello
